@@ -1,5 +1,6 @@
-rcb="Win"
-if (rcb=="Lose"):
-    print("Ee sala cup namde")
+Meghna = input("User name : ")
+
+if Meghna == "Died" :
+    print("Surya meets Priya")
 else:
-    print("Cup namaku illa")
+    print("Surya weds meghna")
